@@ -1,14 +1,14 @@
 #include<iostream>
 using namespace std;
-//calculate the volume of cylinder
+//calculate the valume of cylinder
 int volume(int r,int h){
 return (3.14*r*r*h);
 }
-//calculate the volume of cube
+//calculate the valume of cube
 int volume(int a){
 return (a*a*a);
 }
-//calculate the volume of ractangular
+//calculate the value of ractangular
 int volume(int l,int b,int h){
 return (l*b*h);
 }
